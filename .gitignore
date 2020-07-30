@@ -1,1 +1,6 @@
 *.log
+target/*
+project/target/*
+project/project/target/*
+.idea/*
+/project/build.properties
